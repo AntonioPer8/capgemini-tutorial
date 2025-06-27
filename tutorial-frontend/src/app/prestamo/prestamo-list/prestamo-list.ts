@@ -145,7 +145,7 @@ export class PrestamoList implements OnInit {
             data: {
                 title: 'Eliminar prestamo',
                 description:
-                    'Atención si borra el prestamo se perderán sus datos.<br> ¿Desea eliminar el autor?',
+                    'Atención si borra el prestamo se perderán sus datos.<br> ¿Desea eliminar el prestamo?',
             },
         });
 
